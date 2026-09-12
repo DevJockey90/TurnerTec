@@ -1,9 +1,9 @@
-## Hi there 👋
+##👋 Hi, I'm Landen Turner
+Identity & Access Management | Identity Security | IAM Automation | Zero Trust
+I’m an Identity & Access Management (IAM) professional focused on building secure, scalable, and automated identity solutions for enterprise environments.
+My background combines software engineering, cloud technologies, cybersecurity, and identity security. I’m especially interested in solving the problems that sit at the intersection of people, applications, access, and security.
+I build hands-on IAM projects that demonstrate how identity is designed, provisioned, secured, governed, monitored, and automated throughout the enterprise.
 
-<!--
-**TurnerTec/TurnerTec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
